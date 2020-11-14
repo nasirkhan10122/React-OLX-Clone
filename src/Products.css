@@ -1,0 +1,69 @@
+.products{
+    margin-top: 60px;
+    margin-left: 110px;
+    
+}
+.head1{
+    font-weight: lighter;
+    color: rgb(41, 39, 39);
+}
+.product_line1{
+    margin-top: 20px;
+}
+.pr1{
+    border: 1px solid silver;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    border-radius: 5px;
+
+}
+.ftag{
+    background-color: rgb(240, 194, 110);
+    font-size: 10px;
+    font-weight: bolder;
+    margin-bottom: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.fav>img{
+    width: 30px;
+    cursor: pointer;
+}
+
+
+.prdisplay{
+    display: flex;
+    margin-top: 6px;
+    justify-content: space-around;
+}
+.primg>img{
+    max-width: 120px;
+}
+.prdetails{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.price{
+    font-size: 25px;
+    color: rgb(46, 44, 44);
+}
+.locDate{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: lighter;
+    font-size: 12px;
+}
+.spec{
+    font-weight: lighter;
+    font-size: 15px;
+}
+.msg{
+    font-weight: lighter;
+    font-size: 14px;
+}

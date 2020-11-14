@@ -1,0 +1,89 @@
+.header{
+    
+    display: flex;
+    align-items: center;
+    position: sticky;
+    padding-top: 5px;
+    background-color: whitesmoke;
+    padding-bottom: 5px;
+    padding-right: 200px;
+    
+    
+}
+
+.header_logo{
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 65px;
+    margin-right: 20px;
+
+}
+
+
+.header_locbar{
+    
+    height: 12px;
+    padding: 15px;
+    border: 2px solid black;
+    width: 240px;
+    border-radius: 4px;
+}
+.header_search{
+    display: flex;
+    margin-right: 10px;
+    margin-left: 15px;
+   
+}
+.header_searchbar{
+    height: 12px;
+    padding: 15px;
+    width: 660px;
+    border: 2px solid black;
+    padding-left: 7px;
+    padding-top: 16px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    
+}
+
+
+.header_iconsearch{
+    width: 44px !important;
+   
+}
+::placeholder{
+    font-size: 16px;
+    
+}
+
+.btns{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+.sell_btn{
+    margin-left: 20px;
+    
+    
+  
+    
+}
+.sell{
+    font-size: 15px;
+    border: 4px solid;
+    border-color: lightskyblue   blue blue yellow ;
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    
+    
+}
+.login{
+    cursor: pointer;
+}
+
+
+
+
+    
